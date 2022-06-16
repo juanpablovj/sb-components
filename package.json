@@ -10,8 +10,7 @@
     "url": "https://github.com/juanpablovj/sb-components"
   },
   "peerDependencies": {
-    "react": ">=16",
-    "typescript": ">=4"
+    "react": ">=16"
   },
   "release": {
     "branches": [
